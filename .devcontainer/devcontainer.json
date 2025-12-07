@@ -30,7 +30,7 @@
         }
     },
     "forwardPorts": [
-        5000
+        5251
     ],
     "hostRequirements": {
         "memory": "8gb",
