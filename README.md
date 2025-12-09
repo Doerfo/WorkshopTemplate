@@ -136,10 +136,6 @@ WorkshopTemplate/
 - [.NET Documentation](https://docs.microsoft.com/dotnet/)
 - [GitHub Copilot Documentation](https://docs.github.com/copilot)
 
-## License
-
-This template is provided as-is for educational and development purposes.
-
 ## Contributing
 
 Contributions are welcome! Please feel free to submit issues or pull requests.
